@@ -11,6 +11,8 @@ EditorBuildSettings:
   m_configObjects:
     Unity.XR.PXR.Settings: {fileID: 11400000, guid: 2337af32e4ac679498bd7951fdb02be8,
       type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 800f7226d1299434e9f4c95341185e58,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 252adb008baaf8f4fac04b6096d73238,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fb55998b0a27c1a46af898a7daf4f98a,

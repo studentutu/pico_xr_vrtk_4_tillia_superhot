@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Softserve.Tilia.PicoIntegration
+namespace Tilia.PicoIntegration
 {
     /// <summary>
     /// taken from http://sdk.picovr.com/docs/UnitySDK/en/chapter_six.html

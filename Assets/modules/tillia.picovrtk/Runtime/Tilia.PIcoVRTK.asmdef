@@ -1,6 +1,6 @@
 {
     "name": "Tilia.PIcoVRTK",
-    "rootNamespace": "Softserve.Tilia.PicoIntegration",
+    "rootNamespace": "Tilia.PicoIntegration",
     "references": [
         "Zinnia.Runtime",
         "Unity.XR.PicoXR",

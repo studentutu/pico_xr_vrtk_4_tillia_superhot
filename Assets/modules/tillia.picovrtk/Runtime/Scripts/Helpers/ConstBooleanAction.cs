@@ -4,7 +4,7 @@ using UnityEngine;
 using Zinnia.Action;
 using Zinnia.Process;
 
-namespace Softserve.Tilia.PicoIntegration
+namespace Tilia.PicoIntegration
 {
     public class ConstBooleanAction : BooleanAction, IProcessable
     {

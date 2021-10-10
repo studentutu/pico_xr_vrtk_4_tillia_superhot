@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.XR;
 
-namespace Softserve.Tilia.PicoIntegration
+namespace Tilia.PicoIntegration
 {
     public class XRControllerWatcher : MonoBehaviour
     {

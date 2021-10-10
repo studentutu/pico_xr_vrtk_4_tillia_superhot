@@ -5,7 +5,7 @@ using UnityEngine;
 using Zinnia.Association;
 using Zinnia.Process.Moment;
 
-namespace Softserve.Tilia.PicoIntegration
+namespace Tilia.PicoIntegration
 {
     /// <summary>
     /// Latest enabled systems should be also counted.

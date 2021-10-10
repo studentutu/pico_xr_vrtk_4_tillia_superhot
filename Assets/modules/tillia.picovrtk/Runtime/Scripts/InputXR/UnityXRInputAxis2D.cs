@@ -7,7 +7,7 @@ using Zinnia.Action;
 using Zinnia.Process;
 
 
-namespace Softserve.Tilia.PicoIntegration
+namespace Tilia.PicoIntegration
 {
     public enum XRUsages2DAxis
     {

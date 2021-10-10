@@ -1,4 +1,4 @@
-﻿namespace Softserve.Tilia.PicoIntegration
+﻿namespace Tilia.PicoIntegration
 {
     public enum XRControllers
     {

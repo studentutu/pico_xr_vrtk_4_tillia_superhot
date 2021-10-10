@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using Zinnia.Process;
 
-namespace Softserve.Tilia.PicoIntegration
+namespace Tilia.PicoIntegration
 {
     public class CopyGameObjectState : MonoBehaviour, IProcessable
     {

@@ -6,7 +6,7 @@ using UnityEngine.InputSystem;
 using Zinnia.Action;
 using Zinnia.Process;
 
-namespace Softserve.Tilia.PicoIntegration
+namespace Tilia.PicoIntegration
 {
     public class NewInputSystemButtonAction: BooleanAction, IProcessable
     {

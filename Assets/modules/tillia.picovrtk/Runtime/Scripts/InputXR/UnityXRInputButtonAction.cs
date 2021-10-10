@@ -4,11 +4,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR;
 using Zinnia.Action;
-using UnityEngine.UI;
 using Zinnia.Process;
 
 
-namespace Softserve.Tilia.PicoIntegration
+namespace Tilia.PicoIntegration
 {
     public enum XRUsagesButtonAction
     {
