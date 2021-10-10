@@ -1,0 +1,27 @@
+{
+    "name": "Tilia.PIcoVRTK",
+    "rootNamespace": "Softserve.Tilia.PicoIntegration",
+    "references": [
+        "Zinnia.Runtime",
+        "Unity.XR.PicoXR",
+        "Unity.XR.Interaction.Toolkit",
+        "Unity.XR.Management",
+        "Unity.InputSystem",
+        "Tilia.CameraRigs.TrackedAlias.Unity.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.picoxr",
+            "expression": "0.1",
+            "define": "PICOXR"
+        }
+    ],
+    "noEngineReferences": false
+}
